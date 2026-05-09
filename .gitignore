@@ -8,3 +8,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Node
+node_modules/
+
+# Build output
+assets/css/bootstrap.css
+assets/css/bootstrap.css.map
