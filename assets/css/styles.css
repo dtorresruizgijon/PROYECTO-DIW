@@ -2,6 +2,10 @@
   color-scheme: light;
 }
 
+body {
+  text-rendering: optimizeLegibility;
+}
+
 /* Enlace para saltar al contenido */
 .skip-link {
   position: absolute;
@@ -24,8 +28,7 @@
 
 /* Fondo del hero */
 .hero {
-  background: radial-gradient(1200px circle at 10% 10%, rgba(13, 110, 253, 0.12), transparent 50%),
-    radial-gradient(1000px circle at 90% 20%, rgba(25, 135, 84, 0.12), transparent 55%);
+  background: linear-gradient(180deg, rgba(13, 110, 253, 0.06), transparent 65%);
 }
 
 /* Foco visible */
