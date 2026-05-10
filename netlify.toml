@@ -1,3 +1,5 @@
 [build]
+  # Compila Bootstrap (Sass)
   command = "npm run build"
+  # Publica la raíz
   publish = "."

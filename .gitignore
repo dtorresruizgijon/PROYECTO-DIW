@@ -1,4 +1,4 @@
-# OS
+# Sistema
 Thumbs.db
 .DS_Store
 
@@ -12,6 +12,6 @@ Thumbs.db
 # Node
 node_modules/
 
-# Build output
+# CSS generado
 assets/css/bootstrap.css
 assets/css/bootstrap.css.map
