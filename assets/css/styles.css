@@ -6,6 +6,12 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+.hero-thumb {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+
 /* Enlace para saltar al contenido */
 .skip-link {
   position: absolute;
